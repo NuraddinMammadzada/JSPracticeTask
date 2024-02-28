@@ -1,4 +1,4 @@
-// const bucaq = parseInt(prompt("Zəhmət olmasa açını daxil edin:"));
+// const bucaq = Number(prompt("Zəhmət olmasa açını daxil edin:"));
 
 // let message;
 // if (bucaq < 90) {
@@ -13,7 +13,7 @@
 
 // alert(message);
 
-// const bucaq = parseInt(prompt("Zəhmət olmasa açını daxil edin:"));
+// const bucaq = Numnber(prompt("Zəhmət olmasa açını daxil edin:"));
 
 // alert(
 //     bucaq < 90 ? "İti bucaq" : bucaq === 90 ? "Düz bucaq" : bucaq < 180 ? "Kor bucaq" : "Açıq bucaq"
